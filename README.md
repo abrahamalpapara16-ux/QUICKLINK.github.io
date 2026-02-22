@@ -5,7 +5,6 @@
 ## 🏛️ Project Context
 * **Institution:** Bicol University Polangui Campus (BUPC)
 * **Course:** BS in Computer Science (BSCS 1B)
-* **Subject:** CS103 - Computer Programming
 * **Developer:** Abraham James Alpapara
 
 ## ✨ Key Features
