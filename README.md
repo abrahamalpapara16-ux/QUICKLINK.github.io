@@ -24,4 +24,4 @@
 ## 🚀 Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/QuickLink-Portal.git](https://github.com/YOUR_USERNAME/QuickLink-Portal.git)
+   git clone [https://github.com/abrahamalpapara16/QUICKLINK.git.io](https://github.com/brahamalpapara16/QUICKLINK.git.io)
